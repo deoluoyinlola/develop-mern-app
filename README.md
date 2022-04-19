@@ -26,5 +26,3 @@ Follow the comphrensive processes of how to dockerize this app here
 # PART 3 - DEPLOYMENT OF MERN APP
 
 Follow the comphrensive processes of how to deploy this app here
-
-mongodb+srv://<username>:<password>@bukrate-app.lfqmj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
